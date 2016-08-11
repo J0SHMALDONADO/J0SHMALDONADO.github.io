@@ -80,31 +80,22 @@ var rules = {
   ],
   "~*x best ~*y": [
     "Josh is the best at ~y.",
-    "Obviously, it's Josh.",
     "Josh absolutely rules at ~y.",
   ],
-  "~*x I dream about ~*y": [
-    "How do you feel about ~y in reality?",
+  "game": [
+    "Tell me the second letter of the professor's last name.",
   ],
-  "~*x dream ~*y": [
-    "What does this dream suggest to you?",
-    "Do you dream often?",
-    "What persons appear in your dreams?",
-    "Don't you believe that dream has to do with your problem?",
+  "O": [
+    "Excellent. Now, how many people teaching this workshop?"
   ],
-  "~*x my mother ~*y": [
-    "Who else in your family ~y?",
-    "Tell me more about your family",
+  "3": [
+    "Alright, now what subject are Socrates and Plato known for?"
   ],
-  "~*x my father ~*y": [
-    "Your father?",
-    "Does he influence you strongly?",
-    "What else comes to mind when you think of your father?",
+  "philosophy": [
+    "Alright, now to beat the game, your final question: What is two plus two?"
   ],
-  "~*x I am glad ~*y": [
-    "How have I helped you to be ~y?",
-    "What makes you happy just now?",
-    "Can you explain why you are suddenly ~y?",
+  "4": [
+    "Good job, you win!"
   ],
   "~*x I am sad ~*y": [
     "I am sorry to hear you are depressed",
